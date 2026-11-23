@@ -1,0 +1,14 @@
+README.md
+  h_ae1ad7dcc0e82b 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "82aae18b4c60c2bcbe976f88ee14ca64c5796ab4",
+  "prompts": {},
+  "humans": {
+    "h_ae1ad7dcc0e82b": {
+      "author": "banyunfei <banyunfei.byf@antgroup.com>"
+    }
+  }
+}
